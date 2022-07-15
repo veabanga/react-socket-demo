@@ -1,7 +1,7 @@
 
 import './App.css';
 // import { Chart } from './Chart';
-import { Form } from './Form';
+// import { Form } from './Form';
 import { TestSocket } from './TestSocket';
 
 function App() {
