@@ -38,7 +38,6 @@ export const TestSocket = () => {
     });
   };
 
-  ;
 
   // socket.on("live_count", (msg) => {
   //   console.log(msg);
